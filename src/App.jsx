@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { usePokemonCards } from "./hooks/usePokemonCards";
-import CardGrid from "./components/CardGrid";
-import Scoreboard from "./components/Scoreboard";
+import CardGrid from "./components/cardGrid";
+import Scoreboard from "./components/ScoreCard";
 import "./App.css";
 
 export default function App() {
